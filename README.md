@@ -10,7 +10,15 @@ FISSION is a transformative CBDC project targeted at emerging economies. Our aim
 * Catalyze economic growth by targeting critical sectors such as agriculture, SMEs, etc.
 
 ## SPECIFICATIONS
-FISSION intends to seamlessly integrate XRPL's customizable features, with a special focus on enabling retail CBDC transactions. For example, trustlines will enable the unbanked to have direct access to financial institutions, payment channels will be extremely useful for microtransactions and everyday retail. hooks will provide additional flexibilities at the level of micro-loans and p2p exchanges. More specification details have been written in the whitepaper.
+FISSION intends to seamlessly integrate XRPL's customizable features, with a special focus on enabling retail CBDC transactions. For example;
+
+* Trustlines will enable the unbanked to have direct access to financial institutions,
+  
+* Payment channels will be extremely useful for microtransactions and everyday retail.
+  
+* Hooks will provide additional flexibilities at the level of micro-loans and p2p exchanges.
+
+More specification details have been written in the whitepaper.
 
 ## MILESTONES (PHASE II)
 
